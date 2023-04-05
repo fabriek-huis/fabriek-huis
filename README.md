@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sputn1k
+- 👋 Hi, I’m @fabriek-huis
 - 👀 I’m interested in ... coding, photography, art, modular synths :) 
 - 🌱 I’m currently building ... apps using native code and web langauges 
-- 💞️ Available for paid work 
-- 📫 How to reach me ... sputn1kind@gmail.com
+- ⚙️ Available for paid work 
+- 📫 How to reach me ... fabriekhuis@gmail.com
 
 <!---
 sputn1k/sputn1k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
